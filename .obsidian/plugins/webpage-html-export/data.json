@@ -47,7 +47,7 @@
   "filesToExport": [
     [
       "C",
-      "Dialect.md",
+      "C/Dialect.md",
       "index.md"
     ]
   ]

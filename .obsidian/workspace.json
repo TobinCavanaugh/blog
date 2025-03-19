@@ -185,9 +185,10 @@
   },
   "active": "adda75a2e0f66e97",
   "lastOpenFiles": [
-    "index.md",
+    "C/Item.md",
     "C/Raylib Async Loading.md",
-    "Dialect.md",
+    "C/Dialect.md",
+    "index.md",
     "git_update.bat",
     "git.bat",
     "update.bat",
@@ -198,7 +199,6 @@
     "docs/C/Item.html",
     "docs/C",
     "docs/_assets/2025-03-19 14-57-53 - Trim.mp4",
-    "C/Item.md",
     "Welcome.md",
     "docs/lib/media/6155340132a851f6089e.svg",
     "_html/lib/media/6155340132a851f6089e.svg"
