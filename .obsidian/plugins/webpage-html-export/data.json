@@ -47,8 +47,8 @@
   "filesToExport": [
     [
       "Folder",
-      "Raylib Async Loading.md",
-      "Welcome.md"
+      "index.md",
+      "Raylib Async Loading.md"
     ]
   ]
 }
