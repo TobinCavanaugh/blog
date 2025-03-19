@@ -11,12 +11,14 @@
             "id": "adda75a2e0f66e97",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_html/lib/media/6155340132a851f6089e.svg"
+                "file": "Raylib Async Loading.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "6155340132a851f6089e"
+              "icon": "lucide-file",
+              "title": "Raylib Async Loading"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_html/lib/media/6155340132a851f6089e.svg",
+                "file": "Raylib Async Loading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6155340132a851f6089e"
+              "title": "Backlinks for Raylib Async Loading"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_html/lib/media/6155340132a851f6089e.svg",
+                "file": "Raylib Async Loading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 6155340132a851f6089e"
+              "title": "Outgoing links from Raylib Async Loading"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_html/lib/media/6155340132a851f6089e.svg",
+                "file": "Raylib Async Loading.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6155340132a851f6089e"
+              "title": "Outline of Raylib Async Loading"
             }
           }
         ]
@@ -167,22 +169,23 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c5081dfaa6559cec",
+  "active": "adda75a2e0f66e97",
   "lastOpenFiles": [
-    "_html2",
-    "New folder",
-    "Folder/Item.md",
+    "docs/lib/metadata.json",
+    "docs/lib/media/6155340132a851f6089e.svg",
+    "docs/lib/media",
+    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "docs/lib/fonts/05b618077343fbbd92b7.ttf",
+    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "docs/lib/fonts/454577c22304619db035.ttf",
+    "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
+    "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
     "Welcome.md",
+    "docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
     "Raylib Async Loading.md",
-    "_html/Folder/Item.html",
-    "_html/Folder",
-    "Folder",
     "_html/lib/media/6155340132a851f6089e.svg",
-    "_html/Welcome.html",
-    "_html/Raylib Async Loading.html",
-    "_html/lib/metadata.json",
-    "_html/lib/media",
-    "_html/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "_html/lib/fonts/05b618077343fbbd92b7.ttf"
+    "Folder/Item.md"
   ]
 }
