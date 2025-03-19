@@ -1,15 +1,4 @@
-ABC
-
-[[Raylib Async Loading]]
-[[Welcome]]
-
-
-```dataview
-TABLE
-FROM "/"
-SORT file.name ASC
-```
-
+# Index of my blog:
 
 ```dataview
 TABLE file.ctime as "Created"

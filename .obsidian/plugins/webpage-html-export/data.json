@@ -46,9 +46,9 @@
   "exportPath": "C:\\\\Users\\tobin\\Documents\\repos\\blog\\docs",
   "filesToExport": [
     [
-      "Folder",
+      "C",
       "index.md",
-      "Raylib Async Loading.md"
+      "C/Raylib Async Loading.md"
     ]
   ]
 }
