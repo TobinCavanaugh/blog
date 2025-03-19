@@ -46,7 +46,6 @@
   "exportPath": "C:\\\\Users\\tobin\\Documents\\repos\\blog\\docs",
   "filesToExport": [
     [
-      "_assets",
       "C",
       "Dialect.md",
       "index.md"

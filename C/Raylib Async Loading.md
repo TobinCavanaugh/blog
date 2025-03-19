@@ -2,6 +2,9 @@
 
 Loading resources asynchronously in Raylib is a bit tricky. It isn't something that is natively supported (yet 😉). But in the mean time, we need a way to load resources in a non-blocking manner. Raylib uses an GLFW OpenGL backend, meaning that we should be able to implement this behavior.
 
+> [!Warning]
+> This only works with a GLFW Raylib backend
+
 # Concept:
 1. Create a child GLFW context
 2. Create a loading thread
@@ -12,7 +15,7 @@ Loading resources asynchronously in Raylib is a bit tricky. It isn't something t
 # Demonstration
 This video shows the async delayed loading implementation shown in [[Raylib Async Loading#Implementation]]. It shows the Raylib app launch, display it's framerate, and then display the loaded texture. It takes a few seconds, given the texture is 25MB large. 
 ![[_assets/2025-03-19 14-57-53 - Trim.mp4|2025-03-19 14-57-53 - Trim]]
-### Implementation
+# Implementation
 (uses [[Dialect]])
 ```C
 #include "GLFW/glfw3.h"
