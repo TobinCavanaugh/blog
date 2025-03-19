@@ -46,9 +46,10 @@
   "exportPath": "C:\\\\Users\\tobin\\Documents\\repos\\blog\\docs",
   "filesToExport": [
     [
+      "_assets",
       "C",
-      "index.md",
-      "C/Raylib Async Loading.md"
+      "Dialect.md",
+      "index.md"
     ]
   ]
 }
