@@ -186,6 +186,8 @@
   },
   "active": "45257e8675058b76",
   "lastOpenFiles": [
+    "Welcome.md",
+    "docs/index.html",
     "Raylib Async Loading.md",
     "index.md",
     "docs/lib/metadata.json",
@@ -198,8 +200,6 @@
     "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
     "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
     "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "Welcome.md",
-    "docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
     "_html/lib/media/6155340132a851f6089e.svg",
     "Folder/Item.md"
   ]
