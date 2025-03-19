@@ -197,56 +197,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "fd68959fb79f2070",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d91d0f7d6bd64f54",
-        "type": "window",
-        "children": [
-          {
-            "id": "c47f33b2c1629c40",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9c05d89c74bbb709",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 317,
-        "y": 338,
-        "width": 802,
-        "height": 402,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "adda75a2e0f66e97",
   "lastOpenFiles": [
     "index.md",
+    "C/Raylib Async Loading.md",
+    "Dialect.md",
+    "git_update.bat",
+    "git.bat",
+    "update.bat",
+    "update.txt",
+    "New Text Document.txt",
     "docs/Dialect.html",
     "docs/C/Raylib Async Loading.html",
     "docs/C/Item.html",
     "docs/C",
     "docs/_assets/2025-03-19 14-57-53 - Trim.mp4",
-    "docs/_assets",
-    "C/Raylib Async Loading.md",
-    "2025-03-19 14-57-53 - Trim.mp4",
-    "Dialect.md",
-    "_assets/2025-03-19 14-57-53 - Trim 1.mp4",
-    "_assets/2025-03-19 14-57-53 - Trim.mp4",
-    "_assets",
     "C/Item.md",
     "Welcome.md",
     "docs/lib/media/6155340132a851f6089e.svg",
