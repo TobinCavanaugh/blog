@@ -1,9 +1,11 @@
 #raylib #C #async #gamedev
+#raylib #C #async #gamedev
 
-Loading resources asynchronously in Raylib is a bit tricky. It isn't something that is natively supported (yet 😉). But in the mean time, we need a way to load resources in a non-blocking manner. Raylib uses an GLFW OpenGL backend, meaning that we should be able to implement this behavior.
+---
+Loading resources asynchronously in Raylib is a bit tricky. It isn't something that is natively supported (yet). But in the mean time, we need a way to load resources in a non-blocking manner. Raylib uses an GLFW OpenGL backend, meaning that we can implement this behavior.
 
 > [!Warning]
-> This only works with a GLFW Raylib backend
+> This only works with a GLFW Raylib backend. If you're using something else, you're more or less out of luck.
 
 # Concept:
 1. Create a child GLFW context
@@ -12,10 +14,14 @@ Loading resources asynchronously in Raylib is a bit tricky. It isn't something t
 4. Load the asset(s)
 5. Close the child GLFW context (resources are maintained)
 
-# Demonstration
-This video shows the async delayed loading implementation shown in [[Raylib Async Loading#Implementation]]. It shows the Raylib app launch, display it's framerate, and then display the loaded texture. It takes a few seconds, given the texture is 25MB large. 
-![[_assets/2025-03-19 14-57-53 - Trim.mp4|2025-03-19 14-57-53 - Trim]]
-# Implementation
+# Demonstration:
+This video shows the async delayed loading implementation shown in [[Raylib Async Loading#Implementation]]. It shows the Raylib app launch, display it's framerate, and then display the loaded texture. It takes a few seconds, given the texture is 25MB large. You can see by the fact that the framerate counter continues (albeit more slowly) that the main thread is not being blocked.
+
+<video controls loop="" muted="">
+<source src="https://github.com/TobinCavanaugh/blog/raw/refs/heads/master/_assets/2025-03-19%2014-57-53%20-%20Trim.mp4">
+</video>
+
+# Implementation:
 (uses [[Dialect]])
 ```C
 #include "GLFW/glfw3.h"

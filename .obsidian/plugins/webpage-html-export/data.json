@@ -5,7 +5,7 @@
   "includePluginCSS": "dataview",
   "includeSvelteCSS": true,
   "titleProperty": "title",
-  "customHeadContentPath": "",
+  "customHeadContentPath": "C:\\Users\\tobin\\Documents\\repos\\blog\\additional_data.html",
   "faviconPath": "",
   "documentWidth": "40em",
   "sidebarWidth": "20em",
@@ -39,7 +39,7 @@
   "graphMinNodeSize": 3,
   "graphMaxNodeSize": 7,
   "showDefaultTreeIcons": false,
-  "emojiStyle": "Native",
+  "emojiStyle": "FluentUI",
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
@@ -47,7 +47,6 @@
   "filesToExport": [
     [
       "C",
-      "C/Dialect.md",
       "index.md"
     ]
   ]
