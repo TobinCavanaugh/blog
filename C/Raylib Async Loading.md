@@ -16,12 +16,9 @@ Loading resources asynchronously in Raylib is a bit tricky. It isn't something t
 # Demonstration:
 This video shows the async delayed loading implementation shown in [[Raylib Async Loading#Implementation]]. It shows the Raylib app launch, display it's framerate, and then display the loaded texture. It takes a few seconds, given the texture is 25MB large. You can see by the fact that the framerate counter continues (albeit more slowly) that the main thread is not being blocked.
 
-> [!missing]+
-> RE-RECORD AND UPLOAD THIS VIDEO
 <video controls loop="" muted="">
 <source src="https://github.com/TobinCavanaugh/blog/raw/refs/heads/master/_assets/2025-03-19%2014-57-53%20-%20Trim.mp4">
 </video>
-
 # Implementation:
 (uses [[Dialect]])
 ```C
