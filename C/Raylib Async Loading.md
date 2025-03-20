@@ -1,5 +1,4 @@
 #raylib #C #async #gamedev
-#raylib #C #async #gamedev
 
 ---
 Loading resources asynchronously in Raylib is a bit tricky. It isn't something that is natively supported (yet). But in the mean time, we need a way to load resources in a non-blocking manner. Raylib uses an GLFW OpenGL backend, meaning that we can implement this behavior.

@@ -63034,7 +63034,8 @@ function fitViewToNode(node)
 
 	nodeRect = getElBounds(node);
 
-	canvas.style.transition = "scale 0.5s cubic-bezier(0.5, -0.1, 0.5, 1.1), translate 0.5s cubic-bezier(0.5, -0.1, 0.5, 1.1)";
+  canvas.style.transition = "scale 0.1s cubic-bezier(0.5, -0.1, 0.5, 1.1), translate 0.1s cubic-bezier(0.5, -0.1, 0.5, 1.1)";
+	/* canvas.style.transition = "scale 0.5s cubic-bezier(0.5, -0.1, 0.5, 1.1), translate 0.5s cubic-bezier(0.5, -0.1, 0.5, 1.1)"; */
 	scaleCanvas(scale);
 	translateCanvas(deltaX, deltaY);
 
@@ -63065,7 +63066,8 @@ function fitViewToCanvas()
 	let deltaX = viewContentRect.centerX - newNodeX;
 	let deltaY = viewContentRect.centerY - newNodeY;
 
-	canvas.style.transition = "scale 0.5s cubic-bezier(0.5, -0.1, 0.5, 1.1), translate 0.5s cubic-bezier(0.5, -0.1, 0.5, 1.1)";
+	/*canvas.style.transition = "scale 0.5s cubic-bezier(0.5, -0.1, 0.5, 1.1), translate 0.5s cubic-bezier(0.5, -0.1, 0.5, 1.1)";*/
+  canvas.style.transition = "scale 0.1s cubic-bezier(0.5, -0.1, 0.5, 1.1), translate 0.1s cubic-bezier(0.5, -0.1, 0.5, 1.1)";
 	scaleCanvas(scale);
 	translateCanvas(deltaX, deltaY);
 
@@ -64697,7 +64699,7 @@ body.is-phone .heading-wrapper .heading-collapse-indicator
 	height: var(--height);
 
 	opacity: 0;
-	transition: opacity 0.5s ease-in-out;
+	transition: opacity 0.1s ease-in-out;
 	pointer-events: none;
 }
 
@@ -65165,7 +65167,7 @@ var deferred_txt_default = `async function loadIncludes()
 				for (let child of includeChildren)
 				{
 					child.classList.add("hide");
-					child.style.transition = "opacity 0.5s ease-in-out";
+					child.style.transition = "opacity 0.1s ease-in-out";
 
 					setTimeout(() => 
 					{
