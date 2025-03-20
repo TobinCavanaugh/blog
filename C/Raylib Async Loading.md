@@ -80,7 +80,6 @@ int main(void) {
     InitWindow(640, 480, "Async loading example");
     SetTargetFPS(60);
 
-
     Texture2D texture = {0};
     _Atomic u8 loaded = 0;
     async_tex_load(ASSETS_PATH"example.png", &texture, &loaded);

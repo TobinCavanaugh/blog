@@ -47,6 +47,7 @@
   "filesToExport": [
     [
       "C",
+      "CPP",
       "index.md"
     ]
   ]
