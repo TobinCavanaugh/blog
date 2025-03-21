@@ -13,17 +13,21 @@ descriptions:
 - Without frame
 - With frame
 ---
-![aa](Santo_Domingo_de_Silos_entronizado_como_obispo,_por_Bartolomé_Bermejo.jpg)
-![[Saint Dominic of Silos enthroned as a Bishop 1.jpg]]
+![[https://github.com/TobinCavanaugh/blog/blob/master/_assets/Saint%20Dominic%20of%20Silos%20enthroned%20as%20a%20Bishop.jpg?raw=true]]
+
+![[https://github.com/TobinCavanaugh/blog/blob/master/_assets/Santo_Domingo_de_Silos_entronizado_como_obispo,_por_Bartolom%C3%A9_Bermejo.jpg?raw=true]]
 ```
 > These are from [Wikipedia](https://en.wikipedia.org/wiki/Bartolom%C3%A9_Bermejo#/media/File:Santo_Domingo_de_Silos_entronizado_como_obispo,_por_Bartolom%C3%A9_Bermejo.jpg) and the [Prado Museum Website](https://www.museodelprado.es/en/the-collection/art-work/saint-dominic-of-silos-enthroned-as-a-bishop/f4cd7ad1-cc50-48fe-86f5-71dfe6672db1), respectively.
 
 As you can see the same painting with the frame included and without it included are very different experiences. Both of these, however, are still 2D photos, and don't at all capture the true scale and 3D of the ornate frame. The best solution to expressing the entirety of the painting is via a NeRF.
 
-As I mentioned earlier, the loss of a dimension is more significant than one might immediately assume. Beyond just the frame and whatnot, we also lose all of the experience of the light. An important one to me is 
+As I mentioned earlier, the loss of a dimension is more significant than one might immediately assume. Beyond just the frame and whatnot, we also lose all of the experience of the light. An important one to me is
 
 
-| <center>![[Pasted image 20250320210253.png\|400]]</center> |
-| :--------------------------------------------------------- |
-| <center>*Vista de Bermeo* by Paret y Alcazar Luis</center> |
+<image width="40em" src="https://github.com/TobinCavanaugh/blog/blob/master/_assets/Pasted%20image%2020250320210253.png?raw=true"</image>
+
+
+| <center>![Image](https://github.com/TobinCavanaugh/blog/blob/master/_assets/Pasted%20image%2020250320210253.png?raw=true)</center> |
+| :--------------------------------------------------------------------------------------------------------------------------------- |
+| <center>*Vista de Bermeo* by Paret y Alcazar Luis</center>                                                                         |
 

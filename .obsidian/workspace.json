@@ -22,21 +22,7 @@
             }
           },
           {
-            "id": "d75b99db4391750c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/Raylib Async Loading.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Raylib Async Loading"
-            }
-          },
-          {
-            "id": "8162f8bdd14ada76",
+            "id": "e2a0789bb665287d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,19 +34,9 @@
               "icon": "lucide-file",
               "title": "NeRFs For Capturing Art"
             }
-          },
-          {
-            "id": "f2092c5adeedde08",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,65 +184,27 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "1409223c26f868cd",
-    "type": "floating",
-    "children": [
-      {
-        "id": "793314df8f9465bf",
-        "type": "window",
-        "children": [
-          {
-            "id": "84c71b2546a17888",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d89eeeaef2db8ddb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "index.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "index"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 316,
-        "y": 324,
-        "width": 902,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "d89eeeaef2db8ddb",
+  "active": "e2a0789bb665287d",
   "lastOpenFiles": [
     "CPP/String Formatting.md",
     "C/Strings.md",
-    "C/Raylib Async Loading.md",
     "C/Dialect.md",
-    "rand/NeRFs For Capturing Art.md",
-    "index.md",
-    "C/Dangerous C Macros.md",
-    "docs/rand/NeRFs For Capturing Art.html",
-    "docs/rand",
-    "docs/C/Dangerous C Macros.html",
+    "C/Raylib Async Loading.md",
+    "_assets/2025-03-19 14-57-53 - Trim.mp4",
     "_assets/Pasted image 20250320210253.png",
-    "_assets/Saint Dominic of Silos enthroned as a Bishop 1.jpg",
+    "_assets/Pasted image 20250320210253 (Medium).png",
+    "rand/NeRFs For Capturing Art.md",
     "_assets/Saint Dominic of Silos enthroned as a Bishop.jpg",
     "_assets/Santo_Domingo_de_Silos_entronizado_como_obispo,_por_Bartolomé_Bermejo.jpg",
+    "index.md",
+    "docs/rand/NeRFs For Capturing Art.html",
+    "docs/rand",
+    "C/Dangerous C Macros.md",
+    "docs/C/Dangerous C Macros.html",
+    "_assets/Saint Dominic of Silos enthroned as a Bishop 1.jpg",
     "rand",
     "docs/CPP/String Formatting.html",
     "docs/CPP",
-    "_assets/2025-03-19 14-57-53 - Trim.mp4",
     "_assets",
     "CPP",
     "rants",
