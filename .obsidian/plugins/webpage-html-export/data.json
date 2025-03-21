@@ -2,7 +2,7 @@
   "settingsVersion": "1.8.01",
   "makeOfflineCompatible": true,
   "inlineAssets": true,
-  "includePluginCSS": "dataview",
+  "includePluginCSS": "dataview\nobsidian-image-layouts",
   "includeSvelteCSS": true,
   "titleProperty": "title",
   "customHeadContentPath": "C:\\Users\\tobin\\Documents\\repos\\blog\\additional_data.html",
@@ -48,6 +48,7 @@
     [
       "C",
       "CPP",
+      "rand",
       "index.md"
     ]
   ]
