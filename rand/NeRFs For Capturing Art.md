@@ -2,6 +2,7 @@ Neural Radiance Fields (NeRFs) are some of the coolest up and coming tech in the
 
 A great application for NeRFs would be in capturing art. I recently went to the Prada Museum in Madrid, Spain. It was a fantastic experience, and after two and a half hours my head and feet hurt from seeing so much art. I didn't get to see everything I wanted to see there, and when I went afterwards to look up photos of certain art pieces, I couldn't find good quality ones. Photos aren't allowed in the Prada Museum (though I took a few sly ones) so my memory of the art is the only way I can experience a lot of that art again.
 
+![](https://github.com/TobinCavanaugh/blog/blob/master/_assets/f800d93878ca7a02d9f5be18a638afb8-4096952053.png?raw=true)
 
 The solution is NeRFs, by scanning these art pieces with high resolution cameras and outputting a high resolution NeRF, we could open up some of the greatest works of art ever to the student. I would love to go back to the Prada Museum, but I just don't have the money or time, and I think most people are in the same boat. Opening up this art to the rest of humanity would only have good effects, and I think it would make the world a better place.
 
