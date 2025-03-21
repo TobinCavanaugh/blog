@@ -21,13 +21,20 @@ descriptions:
 
 As you can see the same painting with the frame included and without it included are very different experiences. Both of these, however, are still 2D photos, and don't at all capture the true scale and 3D of the ornate frame. The best solution to expressing the entirety of the painting is via a NeRF.
 
-As I mentioned earlier, the loss of a dimension is more significant than one might immediately assume. Beyond just the frame and whatnot, we also lose all of the experience of the light. An important one to me is
-
-
-<image width="40em" src="https://github.com/TobinCavanaugh/blog/blob/master/_assets/Pasted%20image%2020250320210253.png?raw=true"</image>
-
+As I mentioned earlier, the loss of a dimension is more significant than one might immediately assume. Beyond just the frame and whatnot, we also lose all of the experience of the light. An important one to me is the *Vista de Bermeo* by Paret y Alcazar Luis, which you can see in my photo below. A similar image can also be found at the [Museo Del Prado Website](https://www.museodelprado.es/en/the-collection/art-work/view-of-bermeo/e5c8ce62-39a8-443f-8f43-1b0ac6917d74).
 
 | <center>![Image](https://github.com/TobinCavanaugh/blog/blob/master/_assets/Pasted%20image%2020250320210253.png?raw=true)</center> |
 | :--------------------------------------------------------------------------------------------------------------------------------- |
 | <center>*Vista de Bermeo* by Paret y Alcazar Luis</center>                                                                         |
 
+This is not a painting, but rather a type of mosaic named *Commesso* or *Florentine mosaic* [^src]. What's lost in this image is the way the light reflects the stone. At a distance like the photo, the piece almost looks like a painting, but at a glancing view, you see the sheen of the individual stones. Each type of stone, while smooth, has a distinct look at this angle.
+
+This is entirely lost in the photo, in fact it would require numerous different photos at different angles to express. The solution, of course, is NeRFs.
+
+A great demo of what this tech can achieve in the lighting space is on [Matthew Tancik's blog](https://www.matthewtancik.com/nerf). This can be seen in the following video, where the TV screen reflects the light accurately. The right side demonstrates that the light can be viewed independently of the camera angle.
+
+<video controls loop="true" muted="">
+<source src="http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ECCV20/nerf/website_renders/viewdirs_website_bww.mp4">
+</video>
+
+[^src]: https://en.wikipedia.org/wiki/Commesso
