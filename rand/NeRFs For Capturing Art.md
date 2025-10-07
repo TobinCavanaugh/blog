@@ -1,3 +1,5 @@
+by Tobin Cavanaugh
+
 Neural Radiance Fields (NeRFs) are some of the coolest up and coming tech in the world of rendering and spatial capture. Photogrammetry is decent, but NeRFs fill a new niche, that being having detailed 3D captures that include material data and light simulation.
 
 The solution to preserving art digitally in the modern day are NeRFs. I recently went to the Prada Museum in Madrid, Spain. It was a fantastic experience, and after two and a half hours my head and feet hurt from seeing so much art. I didn't get to see everything I wanted to see there, and when I went afterwards to look up photos of certain art pieces, I couldn't find good quality ones. Photos aren't allowed in the Prada Museum (though I took a few sly ones) so my memory of the art is the only way I can experience a lot of that art again.
@@ -33,11 +35,9 @@ This is not a painting, but rather a type of mosaic named *Commesso* or *Florent
 
 This is entirely lost in the photo, in fact it would require numerous different photos at different angles to express. The solution, of course, is NeRFs.
 
-A great demo of what this tech can achieve in the lighting space is on [Matthew Tancik's blog](https://www.matthewtancik.com/nerf). This can be seen in the following video, where the TV screen reflects the light accurately. The right side demonstrates that the light can be viewed independently of the camera angle.
+A great demo of what this tech can achieve in the lighting space is on [Matthew Tancik's blog](https://www.matthewtancik.com/nerf). This can be seen [here](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ECCV20/nerf/website_renders/viewdirs_website_bww.mp4), where the TV screen reflects the light accurately. The right side demonstrates that the light can be viewed independently of the camera angle. 
 
-<video controls loop="true" muted="">
-<source src="http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ECCV20/nerf/website_renders/viewdirs_website_bww.mp4">
-</video>
+![](_assets/NeRF_Example.gif)
 
 The use of NeRF technology would return the sheen and material of the rocks back to *Vista de Bermeo*, and would preserve the actual artistic value of the piece in a way that photos don't.
 
