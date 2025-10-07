@@ -183,9 +183,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "01ee2e446a16dcf3",
+  "active": "c5081dfaa6559cec",
   "lastOpenFiles": [
     "pdf/NeRFs For Capturing Art.pdf",
+    "pdf/NeRFs For Capturing Art_compressed.pdf",
     "pdf/NeRFs For Capturing Art.html",
     "pdf",
     "rand/NeRFs For Capturing Art.md",
@@ -212,7 +213,6 @@
     "_assets/Saint Dominic of Silos enthroned as a Bishop (Medium).jpg",
     "_assets/Pasted image 20250320210253 (Medium).png",
     "docs/rand/NeRFs For Capturing Art.html",
-    "docs/rand",
     "C/Raylib Async Loading 1 1.md",
     "C/Raylib Async Loading 1.md",
     "C/Item.md",
