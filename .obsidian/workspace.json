@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Raylib Async Loading.md",
+                "file": "rand/NeRFs For Capturing Art.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raylib Async Loading"
+              "title": "NeRFs For Capturing Art"
             }
           },
           {
@@ -39,16 +39,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rand/NeRFs For Capturing Art.md",
+                "file": "3D/Renders.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NeRFs For Capturing Art"
+              "title": "Renders"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,6 +187,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -196,59 +197,26 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "1409223c26f868cd",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3cc6ee951b8a3412",
-        "type": "window",
-        "children": [
-          {
-            "id": "36a7caa427500743",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2428ca2a8eb6d2ec",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "index.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "index"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 316,
-        "y": 324,
-        "width": 902,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "2428ca2a8eb6d2ec",
+  "active": "f3640d09eb0fb760",
   "lastOpenFiles": [
-    "CPP/String Formatting.md",
-    "C/Dialect.md",
-    "C/Raylib Async Loading.md",
     "C/Strings.md",
+    "C/Raylib Async Loading.md",
+    "C/Dialect.md",
+    "3D/Renders.md",
     "C/Dangerous C Macros.md",
+    "CPP/String Formatting.md",
     "rand/NeRFs For Capturing Art.md",
-    "_assets/f800d93878ca7a02d9f5be18a638afb8-4096952053.png",
-    "_assets/Saint Dominic of Silos enthroned as a Bishop.jpg",
-    "_assets/Saint Dominic of Silos enthroned as a Bishop (Medium).jpg",
     "index.md",
     "_assets/2025-03-19 14-57-53 - Trim.mp4",
     "_assets/Pasted image 20250320210253.png",
+    "_assets/render2 1.png",
+    "docs/3D/Renders.html",
+    "docs/3D",
+    "_assets/render2.png",
+    "3D",
+    "_assets/f800d93878ca7a02d9f5be18a638afb8-4096952053.png",
+    "_assets/Saint Dominic of Silos enthroned as a Bishop.jpg",
+    "_assets/Saint Dominic of Silos enthroned as a Bishop (Medium).jpg",
     "_assets/Pasted image 20250320210253 (Medium).png",
     "_assets/Santo_Domingo_de_Silos_entronizado_como_obispo,_por_Bartolomé_Bermejo.jpg",
     "docs/rand/NeRFs For Capturing Art.html",
@@ -258,14 +226,10 @@
     "rand",
     "docs/CPP/String Formatting.html",
     "docs/CPP",
-    "_assets",
-    "CPP",
-    "rants",
     "C/Raylib Async Loading 1 1.md",
     "C/Raylib Async Loading 1.md",
     "C/Item.md",
     "Welcome.md",
-    "docs/lib/media/6155340132a851f6089e.svg",
-    "_html/lib/media/6155340132a851f6089e.svg"
+    "docs/lib/media/6155340132a851f6089e.svg"
   ]
 }

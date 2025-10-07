@@ -1,5 +1,8 @@
 {
   "cssTheme": "",
   "accentColor": "#4044a9",
-  "monospaceFontFamily": "Intel One Mono"
+  "monospaceFontFamily": "Intel One Mono",
+  "enabledCssSnippets": [
+    "tablecenter"
+  ]
 }
