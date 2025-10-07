@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "rand/NeRFs For Capturing Art.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "NeRFs For Capturing Art"
             }
           }
         ],
@@ -187,6 +187,7 @@
   "lastOpenFiles": [
     "pdf/NeRFs For Capturing Art.pdf",
     "pdf/NeRFs For Capturing Art_compressed.pdf",
+    "index.md",
     "pdf/NeRFs For Capturing Art.html",
     "pdf",
     "rand/NeRFs For Capturing Art.md",
@@ -206,13 +207,11 @@
     "_assets/2025-03-19 14-57-53 - Trim.mp4",
     "docs/lib/fonts/085cb93e613ba3d40d2b.woff2",
     "docs/lib/fonts/293fd13dbca5a3e450ef.woff2",
-    "index.md",
     "docs/3D/Renders.html",
     "docs/3D",
     "3D",
     "_assets/Saint Dominic of Silos enthroned as a Bishop (Medium).jpg",
     "_assets/Pasted image 20250320210253 (Medium).png",
-    "docs/rand/NeRFs For Capturing Art.html",
     "C/Raylib Async Loading 1 1.md",
     "C/Raylib Async Loading 1.md",
     "C/Item.md",
